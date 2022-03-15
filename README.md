@@ -8,7 +8,7 @@
 
 Sprout is a portfolio optimization algorithm that creates a **high-growth portfolio** to achieve a high level of expected return in the stock market.
 
-It uses statistical analysis of stock data extracted from [yfinance]() and evaluates such data to produce an optimal portfolio allocation for growth.
+It uses statistical analysis of stock data extracted from yfinance and evaluates such data to produce an optimal portfolio allocation for growth.
 
 This optimizer is primarily targeted towards **financially ambitious clients**.
 
