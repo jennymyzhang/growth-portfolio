@@ -1,6 +1,6 @@
-# High-Growth Portfolio Allocation Optimizer
+# Sprout
 
-> Create a high-growth portfolio for ambitious investors
+> Creates a high-growth portfolio for ambitious investors
 
 <!-- Image goes here -->
 
