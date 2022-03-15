@@ -2,7 +2,7 @@
 
 > Creates a high-growth portfolio for ambitious investors
 
-<!-- Image goes here -->
+![Sprout Image](/Sprout.png)
 
 ## What is Sprout?
 
